@@ -7,7 +7,7 @@
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "‚Ü‚ñ‚Ü‰®`‚×‚ï",
+        "name": "ã¾ã‚“ã¾å±‹æ±ã¹ã‚‘",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "‚Ü‚ñ‚Ü‰®`‚×‚ï"
+            "text": "ã¾ã‚“ã¾å±‹æ±ã¹ã‚‘"
         },
         "polyline": {
             "width": 1,
@@ -179,7 +179,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ƒJƒtƒF’†–ì‰®",
+        "name": "ã‚«ãƒ•ã‚§ä¸­é‡å±‹",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -237,7 +237,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ƒJƒtƒF’†–ì‰®"
+            "text": "ã‚«ãƒ•ã‚§ä¸­é‡å±‹"
         },
         "polyline": {
             "width": 1,
@@ -265,7 +265,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ƒ‹Eƒuƒ‹ƒ^[ƒjƒ… _Šyâ“X",
+        "name": "ãƒ«ãƒ»ãƒ–ãƒ«ã‚¿ãƒ¼ãƒ‹ãƒ¥ ç¥æ¥½å‚åº—",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -323,7 +323,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ƒ‹Eƒuƒ‹ƒ^[ƒjƒ… _Šyâ“X"
+            "text": "ãƒ«ãƒ»ãƒ–ãƒ«ã‚¿ãƒ¼ãƒ‹ãƒ¥ ç¥æ¥½å‚åº—"
         },
         "polyline": {
             "width": 1,
